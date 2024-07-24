@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "824a2bd0a97f9e7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2bb5da4d008afdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a46e2c803a2f8fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "오늘 일단 해야할거.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "846c89d9316bfb6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac21491ae41e2726",
+    "type": "split",
+    "children": [
+      {
+        "id": "8618060336fdc61c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fde427fd74142df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59af89f6d20b191d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "97fd31a5582ba592",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "159971eada86c603",
+    "type": "split",
+    "children": [
+      {
+        "id": "6240dd6edbd2c034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef23e65814e674cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2024-07-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd68f5ef2e98fa88",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2024-07-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "61bb455db8b7803c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e02338bb640e456",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2024-07-24.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "846c89d9316bfb6b",
+  "lastOpenFiles": [
+    "오늘 일단 해야할거.md",
+    "2024-07-24.md",
+    "nshome 업데이트 계획.md"
+  ]
+}
