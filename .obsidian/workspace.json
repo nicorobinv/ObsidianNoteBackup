@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a46e2c803a2f8fa7",
+            "id": "bfdfe21fe3a7adf6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "오늘 일단 해야할거.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "846c89d9316bfb6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-07-24.md",
+                "file": "task/2024-07-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-07-24.md",
+                "file": "task/2024-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-07-24.md",
+                "file": "task/2024-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-07-24.md"
+                "file": "task/2024-07-28.md"
               }
             }
+          },
+          {
+            "id": "57a433b286a90f63",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,10 +156,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "846c89d9316bfb6b",
+  "active": "bfdfe21fe3a7adf6",
   "lastOpenFiles": [
+    "task/2024-07-01.md",
+    "task/2024-07-28.md",
+    "task",
+    "2024-07-26.md",
     "오늘 일단 해야할거.md",
-    "2024-07-24.md",
-    "nshome 업데이트 계획.md"
+    "nshome 업데이트 계획.md",
+    "task.md"
   ]
 }
