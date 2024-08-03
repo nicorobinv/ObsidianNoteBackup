@@ -13,9 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "task/2024-07-28.md",
+                "file": "task/2024-08-03.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "ebae5ac691888326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "코딩을 위한 컴퓨팅 사고력.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00638287a767a10f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "오늘 일단 해야할거.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ec7eb18c189da8b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "무제 파일.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task/2024-07-28.md",
+                "file": "task/2024-08-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task/2024-07-28.md",
+                "file": "task/2024-08-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task/2024-07-28.md"
+                "file": "task/2024-08-03.md"
               }
             }
           },
@@ -153,17 +192,32 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "bfdfe21fe3a7adf6",
   "lastOpenFiles": [
-    "task/2024-07-01.md",
-    "task/2024-07-28.md",
-    "task",
+    "Templates/Daily template.md",
+    "task/2024-08-03.md",
     "2024-07-26.md",
+    "Templates/220828 - 캘린더 기본 템플릿 (220815).md",
+    "task/무제 파일.md",
+    "task/Untitled 1.md",
+    "task/Untitled.md",
+    "무제 파일.canvas",
+    "task/2024-08-01.md",
+    "task/2024-07-01.md",
+    "{{tomorrow}}.md",
+    "{{yesterday}}.md",
+    "task/2024-07-28.md",
+    "Templates",
+    "옵시디언 사용법 정리.md",
     "오늘 일단 해야할거.md",
+    "자료 수집.md",
+    "코딩을 위한 컴퓨팅 사고력.md",
     "nshome 업데이트 계획.md",
+    "task",
     "task.md"
   ]
 }
